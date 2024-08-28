@@ -1,2 +1,1 @@
-nginx
-prom/prometheus
+busybox:1.27
