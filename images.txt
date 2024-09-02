@@ -1,1 +1,2 @@
-bitnami/nginx-exporter:latest
+tomcat:latest
+tomcat-exporter:latest
