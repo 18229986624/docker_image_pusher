@@ -1,1 +1,2 @@
-prom/tomcat-exporter:latest
+prom/jmx-exporter:latest
+prom/*
