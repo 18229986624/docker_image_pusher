@@ -1,2 +1,1 @@
-prom/jmx-exporter:latest
-prom/*
+openjdk:11-jre-slim
