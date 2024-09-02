@@ -1,1 +1,1 @@
-nlighten/tomcat_exporter:latest
+nlighten/tomcat_exporter:0.0.17
