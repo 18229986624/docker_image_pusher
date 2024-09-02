@@ -1,2 +1,1 @@
-tomcat:latest
 tomcat-exporter:latest
