@@ -1,1 +1,1 @@
-tomcat_exporter_image:latest
+nlighten/tomcat_exporter:latest
