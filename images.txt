@@ -1,1 +1,1 @@
-tomcat_exporter:latest
+prom/tomcat-exporter:latest
