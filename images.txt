@@ -1,1 +1,1 @@
-tomcat-exporter:latest
+tomcat_exporter_image:latest
