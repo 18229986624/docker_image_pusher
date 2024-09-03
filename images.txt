@@ -1,1 +1,2 @@
-fg2it/nginx-vts-exporter:latest
+arquivei/nginx-vts
+skyscrapers/nginx
