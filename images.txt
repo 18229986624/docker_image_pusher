@@ -1,1 +1,1 @@
-grafana/grafana:latest
+fg2it/nginx-vts-exporter:latest
