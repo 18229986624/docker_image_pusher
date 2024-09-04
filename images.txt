@@ -1,1 +1,1 @@
-prom/tomcat-exporter:0.6.0
+skywalking-oap-server
