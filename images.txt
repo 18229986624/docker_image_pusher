@@ -1,1 +1,1 @@
-wurstmeister/kafka
+prom/node-exporter:latest
