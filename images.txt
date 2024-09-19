@@ -1,1 +1,1 @@
-skywalking-oap-server
+wurstmeister/kafka
