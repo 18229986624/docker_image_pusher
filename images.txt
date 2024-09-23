@@ -1,1 +1,2 @@
-prom/node-exporter:latest
+nginx
+tomcat
