@@ -3,3 +3,4 @@ apache/skywalking-ui:8.5.0
 elasticsearch:7.6.2
 apache/skywalking-oap-server:9.2.0
 apache/skywalking-ui:9.7.0
+mysql
