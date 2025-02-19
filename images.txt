@@ -18,3 +18,4 @@ postgres:13.3
 redis:6.2.4
 andreimarcu/linx-server:version-2.3.8
 outlinewiki/outline:0.60.3
+centos:7.9.2009
