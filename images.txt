@@ -1,8 +1,1 @@
-mysql
-redis
-goharbor/harbor-log:v2.11.1
-postgres
-redis
-centos:7.9.2009
-nginx
-tomcat
+cym1102/nginxwebui:latest
