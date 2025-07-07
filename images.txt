@@ -1,2 +1,1 @@
-cym1102/nginxwebui:latest
-louislam/dockge:1
+athlon1600/notepad:latest
