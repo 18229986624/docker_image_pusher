@@ -1,2 +1,4 @@
 zoriya/kyoo_scanner:master
 zoriya/kyoo_back:master
+zoriya/kyoo_front:master
+zoriya/kyoo_transcoder:master
