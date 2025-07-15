@@ -1,2 +1,1 @@
-corentinth/it-tools:latest
 xuxueli/xxl-job-admin:latest
