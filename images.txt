@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:latest
+xuxueli/xxl-job-admin:2.4.0
