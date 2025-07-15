@@ -1,2 +1,2 @@
 corentinth/it-tools:latest
-xuxueli/xxl-job-admin:
+xuxueli/xxl-job-admin:latest
