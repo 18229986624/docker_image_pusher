@@ -1,2 +1,1 @@
-ansible/ansible:latest
-ansible/awx:latest
+ansible/awx
